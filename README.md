@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=<++Hello,+World!++>)](https://git.io/typing-svg)
 #
-<p align="center">
+<!-- <p align="center">
   <img src="" />
 </p>
-</h3>
+</h3> -->
 
 #
 <p align="left">
