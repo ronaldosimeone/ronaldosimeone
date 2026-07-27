@@ -3,9 +3,9 @@
 <!-- <p align="center">
   <img src="" />
 </p>
-</h3> -->
+</h3> 
 
-#
+# -->
 <p align="left">
 I am currently pursuing a Bachelor's degree in Computer Engineering at Centro Universitário FACENS. I am a technology enthusiast with a strong interest in software development, databases, artificial intelligence, and data analysis. I have practical experience with relational databases using SQL, data analysis and automation with Python, dashboard development in Power BI, and version control using Git. I am proficient in Python and its libraries and frameworks, and I also have experience developing artificial intelligence models and creating games using C# and Unity. Languages: Portuguese (native), English (fluent), Chinese (intermediate), Japanese (intermediate).
 
