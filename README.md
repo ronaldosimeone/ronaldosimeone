@@ -59,16 +59,16 @@ Atualmente, estou cursando Engenharia da Computação no Centro Universitário F
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="Scikit-learn"/>
   <img width="12" />
 
-   <!-- Tools -->
+  <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
   <img width="12" />
-
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
   <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="30" alt="AWS"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="30" alt="AWS"/>
   <img width="12" />
-
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>
   <img width="12" />
   
