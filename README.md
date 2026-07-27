@@ -88,7 +88,7 @@ modelos de inteligência artificial e a criação de jogos utilizando C# e Unity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronaldosimeone/ronaldosimeone/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronaldosimeone/ronaldosimeone/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/duque31/ronaldosimeone/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ronaldosimeone/ronaldosimeone/output/pacman-contribution-graph.svg">
 </picture>
 
 #
