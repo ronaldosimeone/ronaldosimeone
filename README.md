@@ -80,6 +80,10 @@ Atualmente, estou cursando Engenharia da Computação no Centro Universitário F
 
 <br clear="both">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ronaldosimeone/ronaldosimeone/languages-output/languages.svg" alt="Top Languages" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronaldosimeone/ronaldosimeone/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronaldosimeone/ronaldosimeone/pacman-output/pacman-contribution-graph.svg">
