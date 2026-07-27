@@ -42,6 +42,9 @@ Atualmente, estou cursando Engenharia da Computação no Centro Universitário F
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
   <img width="12" />
 
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="35" alt="AWS" />
+  <img width="12" />
+
   <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI"/>
   <img width="12" />
