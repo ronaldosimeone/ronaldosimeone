@@ -1,16 +1,99 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=<++Hello,+World!++>)](https://git.io/typing-svg)
+#
+<p align="center">
+  <img src=".github/workflows/duque github (1280 x 320 px).gif" />
+</p>
+</h3>
 
-<!--
-**ronaldosimeone/ronaldosimeone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+<p align="left">
+I am a technology enthusiast with a strong interest in software development, databases, artificial intelligence, and data analysis. I am currently pursuing a degree in Computer Engineering at Centro Universitário FACENS. I have hands-on experience with relational databases using SQL, as well as proficiency in Python and its associated libraries and frameworks. My personal experiences also include the development of artificial intelligence models and game development using C# and Unity. Languages: Portuguese (native), English (fluent), German (intermediate), Mandarin (basic).
 
-Here are some ideas to get you started:
+Sou um entusiasta de tecnologia com grande interesse em desenvolvimento de software, bancos de dados, inteligência artificial e análise de dados. Atualmente, estou cursando Engenharia da Computação no Centro Universitário FACENS. Possuo experiência prática com bancos de dados relacionais utilizando SQL, além de proficiência em Python e suas respectivas bibliotecas e frameworks. Também possuo experiência com  
+modelos de inteligência artificial e a criação de jogos utilizando C# e Unity. Idiomas: Porguês (nativo), Inglês (fluente), Alemão (intermediário), Mandarim (básico).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#
+<h3 align="left">My Stack:</h3>
+
+<div align="left">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#"/>
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
+  <img width="12" />
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server"/>
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
+  <img width="12" />
+
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI"/>
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js"/>
+  <img width="12" />
+
+  <!-- AI / Data -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas"/>
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy"/>
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="Scikit-learn"/>
+  <img width="12" />
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>
+  <img width="12" />
+
+  <!-- Game Dev -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="Unity"/>
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="Blender"/>
+  <img width="12" />
+
+  <!-- Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="Power BI"/>
+</div>
+
+#
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronaldosimeone/ronaldosimeone/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronaldosimeone/ronaldosimeone/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/duque31/ronaldosimeone/output/pacman-contribution-graph.svg">
+</picture>
+
+#
+
+###
+<p align="center">
+<i>while (alive) { code(); } // Reescrevendo a realidade, um commit por vez.</i> 
+</p>
